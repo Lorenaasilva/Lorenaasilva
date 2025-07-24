@@ -1,4 +1,4 @@
-## Olá pessoal, meu nome é Lorena Silva :girassol:<br>
+## Olá pessoal, meu nome é Lorena Silva :girassol: <br>
 Sou uma QA Engineer em constante jornada de aprendizado e crescimento profissional. Acredito que a dedicação e a busca contínua por conhecimento são essenciais para entregar um trabalho de excelência e agregar valor significativo aos projetos de software, com atenção aos detalhes que fazem a diferença.<br>
 ### Hard Skills
 * *Experiência em Planejamento e Execução de Testes*
@@ -16,7 +16,7 @@ Sou uma QA Engineer em constante jornada de aprendizado e crescimento profission
 * *Jenkins*
 * *Metodologia Ágil*
 ### Sobre Mim
-Acredito muito na *força da comunicação* para construir um ambiente de trabalho positivo e produtivo. Gosto de conversar, trocar ideias e *colaborar com a equipe. Sou do tipo de pessoa que **não desiste fácil dos seus objetivos* e me empenho ao máximo para alcançá-los. E quando aparece algum “probleminha” no caminho, encaro como um *quebra-cabeça interessante para resolver!*
+Acredito muito na *força da comunicação* para construir um ambiente de trabalho positivo e produtivo. Gosto de conversar, trocar ideias e colaborar com a equipe. Sou do tipo de pessoa que **não desiste fácil dos seus objetivos* e me empenho ao máximo para alcançá-los. E quando aparece algum “probleminha” no caminho, encaro como um *quebra-cabeça interessante para resolver!*
 Sou fã de *HP* e *animais*, principalmente cachorrinhos, inclusive tenho uma mocinha linda chamada _Dory_. :cachorro_rosto: :peixe_tropical: <br><br>
    <div>
   <a href=“https://github.com/Lorenaasilva”>
